@@ -1,4 +1,4 @@
-# SPRINT-7 Análisis de vehículos usados
+# Análisis de vehículos usados
 
 Esta aplicación web construida con Streamlit permite explorar un conjunto de datos sobre anuncios de venta de coches usados en EE.UU. Proporciona visualizaciones interactivas:
 
